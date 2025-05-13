@@ -1,4 +1,4 @@
-#__Veettilekku__ is a user-friendly mobile app built with React Native v0.79.2 that allows users to conveniently order groceries and food directly to their doorstep. Designed for a seamless shopping experience, Veettilekku offers a clean interface to browse items, select quantities, and place orders—all from the comfort of home. Whether it’s daily essentials or a meal craving, Veettilekku brings it veettilekku—right to your home.
+__Veettilekku__ is a user-friendly mobile app built with React Native v0.79.2 that allows users to conveniently order groceries and food directly to their doorstep. Designed for a seamless shopping experience, Veettilekku offers a clean interface to browse items, select quantities, and place orders—all from the comfort of home. Whether it’s daily essentials or a meal craving, Veettilekku brings it veettilekku—right to your home.
 
 # **Features ✨**
 
